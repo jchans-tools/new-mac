@@ -21,6 +21,18 @@ chmod +x new-mac-all.sh
 - 安裝 brew
 - 安裝 iterm2
 - 安裝 oh-my-zsh
+	- 安裝 bullet-train 主題
+
+```zsh
+# 複製 bullet-train 主題到 oh-my-zsh 的 theme 資料夾
+curl -o /.oh-my-zsh/custom/themes/bullet-train.zsh-theme https://raw.githubusercontent.com/caiogondim/bullet-train-oh-my-zsh-theme/master/bullet-train.zsh-theme
+```
+
+```zsh
+# 設定主題
+ZSH_THEME="bullet-train"
+```
+
 - 修改主題為 agnoster
 - 安裝 Meslo LG M Regular for Powerline 字體
 
