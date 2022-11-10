@@ -33,7 +33,7 @@ curl -o /.oh-my-zsh/custom/themes/bullet-train.zsh-theme https://raw.githubuserc
 ZSH_THEME="bullet-train"
 ```
 
-- 修改主題為 agnoster
+- 如果用預設的主題，可以修改主題為 agnoster
 - 安裝 Meslo LG M Regular for Powerline 字體
 
 ### 安裝其他軟體
@@ -42,6 +42,7 @@ ZSH_THEME="bullet-train"
 	- https://brew.sh
 	- https://formulae.brew.sh
 - 登入 Apple ID
+- Line ，目前似乎還是只能去官網下載 dmg 
 
 ### 設定 Git 與 Github
 
