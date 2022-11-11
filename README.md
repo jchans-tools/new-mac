@@ -63,3 +63,9 @@ git config user.name && git config user.email
 
 Githug ssh key 設定
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+
+### VSCode 的使用者 snippet 目錄（ Mac ）
+
+```
+~/Library/Application\ Support/Code/User/snippets
+```
