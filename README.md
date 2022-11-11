@@ -53,8 +53,13 @@ prompt_context () { }
 
 ### 設定 Git 與 Github
 
+Git 使用者設定
+
 ```
 git config --global user.name "jchans"
 git config --global user.email "hanschiang86@gmail.com"
 git config user.name && git config user.email
 ```
+
+Githug ssh key 設定
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh
