@@ -33,8 +33,15 @@ curl -o /.oh-my-zsh/custom/themes/bullet-train.zsh-theme https://raw.githubuserc
 ZSH_THEME="bullet-train"
 ```
 
-- 如果用預設的主題，可以修改主題為 agnoster
 - 安裝 Meslo LG M Regular for Powerline 字體
+- 如果用預設的主題，可以修改主題為 agnoster
+
+agnoster 主題下，想要讓畫面簡潔一點，不顯示使用者與電腦名稱的話，可以在 .zshrc 中做以下設定
+
+```zsh
+# redefine prompt_context for hiding user@hostname
+prompt_context () { }
+```
 
 ### 安裝其他軟體
 
