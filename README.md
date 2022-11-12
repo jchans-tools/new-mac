@@ -21,7 +21,7 @@ chmod +x new-mac-all.sh
 - 安裝 brew
 - 安裝 iterm2
 - 安裝 oh-my-zsh
-	- 安裝 bullet-train 主題
+  - 安裝 bullet-train 主題
 
 ```zsh
 # 複製 bullet-train 主題到 oh-my-zsh 的 theme 資料夾
@@ -46,10 +46,10 @@ prompt_context () { }
 ### 安裝其他軟體
 
 - 用 brew 安裝其他的軟體 (寫個 shell script )，已經安裝過套件的會跳 warning 然後不安裝。
-	- https://brew.sh
-	- https://formulae.brew.sh
+  - https://brew.sh
+  - https://formulae.brew.sh
 - 登入 Apple ID
-- Line ，目前似乎還是只能去官網下載 dmg 
+- Line ，目前似乎還是只能去官網下載 dmg
 
 ### 設定 Git 與 Github
 
@@ -64,8 +64,17 @@ git config user.name && git config user.email
 Githug ssh key 設定
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh
 
-### VSCode 的使用者 snippet 目錄（ Mac ）
+### VSCode
+
+使用者 snippet 目錄（ Mac ）
 
 ```
 ~/Library/Application\ Support/Code/User/snippets
 ```
+
+Plugins
+
+- Eslint
+- Prettier
+- TODO Highlight
+- Markdown All in One
