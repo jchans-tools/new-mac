@@ -72,7 +72,7 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh
 ~/Library/Application\ Support/Code/User/snippets
 ```
 
-Plugins
+VSCode Plugins
 
 - Eslint
 - Prettier

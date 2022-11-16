@@ -1,4 +1,4 @@
-# Updated at 09:12, Nov-09
+# Updated at 01:00, Nov-17
 # 以下是通用開發工具：
 # 套件管理工具，好一點的 terminal 工具， VSCode
 
@@ -56,4 +56,8 @@ nvm install 18.12.1
 # Install yarn, Node.js >=16.10, Node.js ^16.17 or >=18.6
 corepack enable
 corepack prepare yarn@stable --activate
+
+# Game: Nethack
+
+brew install nethack
 
