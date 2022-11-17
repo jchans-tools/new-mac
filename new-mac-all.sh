@@ -1,4 +1,4 @@
-# Updated at 00:35, Nov-18
+# Updated at 01:03, Nov-18
 # 以下是通用開發工具：
 # 套件管理工具，好一點的 terminal 工具， VSCode
 
@@ -37,6 +37,9 @@ brew install --cask vlc
 
 # Teamviewer
 brew install --cask teamviewer
+
+# OBS
+brew install --cask obs
 
 # 設定 Github 帳號
 # Configure Github account

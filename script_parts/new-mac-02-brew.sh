@@ -18,3 +18,6 @@ brew install --cask vlc
 
 # Teamviewer
 brew install --cask teamviewer
+
+# OBS
+brew install --cask obs
