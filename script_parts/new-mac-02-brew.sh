@@ -15,3 +15,6 @@ brew install --cask discord
 # Music and Video players
 brew install --cask foobar2000
 brew install --cask vlc
+
+# Teamviewer
+brew install --cask teamviewer

@@ -1,4 +1,4 @@
-# Updated at 01:00, Nov-17
+# Updated at 00:35, Nov-18
 # 以下是通用開發工具：
 # 套件管理工具，好一點的 terminal 工具， VSCode
 
@@ -35,6 +35,9 @@ brew install --cask discord
 brew install --cask foobar2000
 brew install --cask vlc
 
+# Teamviewer
+brew install --cask teamviewer
+
 # 設定 Github 帳號
 # Configure Github account
 git config --global user.name "jchans"
@@ -58,6 +61,5 @@ corepack enable
 corepack prepare yarn@stable --activate
 
 # Game: Nethack
-
 brew install nethack
 
