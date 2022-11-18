@@ -13,3 +13,6 @@ nvm install 18.12.1
 # Install yarn, Node.js >=16.10, Node.js ^16.17 or >=18.6
 corepack enable
 corepack prepare yarn@stable --activate
+
+# Uodating yarn to latest versions
+yarn set version stable

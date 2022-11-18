@@ -1,4 +1,4 @@
-# Updated at 01:03, Nov-18
+# Updated at 17:01, Nov-18
 # 以下是通用開發工具：
 # 套件管理工具，好一點的 terminal 工具， VSCode
 
@@ -14,32 +14,14 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 # 產生自訂的 alias 檔
 touch ~/.oh-my-zsh/custom/aliases.zsh
 
-# 安裝 VSCode
+# Other tools for web dev
+
+# VSCode
 brew install --cask visual-studio-code
 
-# 以下是一些我個人喜歡的軟體
-# Some software I like to use
-
-# Editor for plain text
-brew install --cask bbedit
-
-# Web browsers and BBS client
+# Web browsers
 brew install --cask google-chrome
 brew install --cask firefox
-brew install --cask welly
-
-# Discord
-brew install --cask discord
-
-# Music and Video players
-brew install --cask foobar2000
-brew install --cask vlc
-
-# Teamviewer
-brew install --cask teamviewer
-
-# OBS
-brew install --cask obs
 
 # 設定 Github 帳號
 # Configure Github account
@@ -63,6 +45,6 @@ nvm install 18.12.1
 corepack enable
 corepack prepare yarn@stable --activate
 
-# Game: Nethack
-brew install nethack
+# Uodating yarn to latest versions
+yarn set version stable
 

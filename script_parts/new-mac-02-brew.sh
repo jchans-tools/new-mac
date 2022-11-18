@@ -1,23 +1,8 @@
-# 以下是一些我個人喜歡的軟體
-# Some software I like to use
+# Other tools for web dev
 
-# Editor for plain text
-brew install --cask bbedit
+# VSCode
+brew install --cask visual-studio-code
 
-# Web browsers and BBS client
+# Web browsers
 brew install --cask google-chrome
 brew install --cask firefox
-brew install --cask welly
-
-# Discord
-brew install --cask discord
-
-# Music and Video players
-brew install --cask foobar2000
-brew install --cask vlc
-
-# Teamviewer
-brew install --cask teamviewer
-
-# OBS
-brew install --cask obs

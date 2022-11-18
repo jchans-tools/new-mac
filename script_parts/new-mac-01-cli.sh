@@ -12,6 +12,3 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 
 # 產生自訂的 alias 檔
 touch ~/.oh-my-zsh/custom/aliases.zsh
-
-# 安裝 VSCode
-brew install --cask visual-studio-code
