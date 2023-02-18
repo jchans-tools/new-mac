@@ -82,3 +82,12 @@ VSCode Plugins
 ## 需要手動安裝的軟體
 
 - Logi Options （好像更新到 Logi Options+ 了，目前使用的滑鼠 M720 的自訂按鈕需要用到）
+
+
+## 評估中
+
+- Neovim
+
+```
+brew install neovim
+```
